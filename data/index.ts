@@ -157,29 +157,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Backend Developer Intern",
+    desc: "Contributed to the development of a Live Auction Sytem in, ensuring real-time process and seamless user experience.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Software Developer  - School Project",
+    desc: "Created a Software System for Logbook, as well as built and manage good team.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Software Developer - Capstone Project",
+    desc: "Contributed to the development of an online equipment rentals and construction inquiry system for J & A Estavilla Construction Services .",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Animation - Senior High course",
+    desc: "Designed and created engaging animations and interactive media, showcasing creativity and technical skills in visual storytelling.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },

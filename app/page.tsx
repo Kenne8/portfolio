@@ -20,10 +20,11 @@ const Home = () => {
         {/* <Grid />
       
         <Clients />
-        <Experience />
+    
         <Approach />
         <Footer /> */}
         <RecentProjects />
+        <Experience />
       </div>
     </main>
   );
